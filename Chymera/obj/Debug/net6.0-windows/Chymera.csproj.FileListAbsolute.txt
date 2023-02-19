@@ -1,0 +1,17 @@
+F:\Lab\labs\Chymera\Chymera\bin\Debug\net6.0-windows\Chymera.exe
+F:\Lab\labs\Chymera\Chymera\bin\Debug\net6.0-windows\Chymera.deps.json
+F:\Lab\labs\Chymera\Chymera\bin\Debug\net6.0-windows\Chymera.runtimeconfig.json
+F:\Lab\labs\Chymera\Chymera\bin\Debug\net6.0-windows\Chymera.dll
+F:\Lab\labs\Chymera\Chymera\bin\Debug\net6.0-windows\Chymera.pdb
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.csproj.AssemblyReference.cache
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.Form1.resources
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.csproj.GenerateResource.cache
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.AssemblyInfoInputs.cache
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.AssemblyInfo.cs
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.dll
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\refint\Chymera.dll
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.pdb
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\Chymera.genruntimeconfig.cache
+F:\Lab\labs\Chymera\Chymera\obj\Debug\net6.0-windows\ref\Chymera.dll
